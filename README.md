@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Amani Alsmadi
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate with other programmers
 - 📫 How to reach me smadi.amani94@gmail.com
 
 <!---
